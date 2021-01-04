@@ -40,7 +40,7 @@
 #### I'm a Full-Stack Developer working in Bangalore, India
 
     - 👨🏻‍🎓 I'm a Scholar@SAP, 2019 Batch
-    - 🏢 I'm currently working with Customer Success Team
+    - 🏢 I'm currently working with ConversationalAI Team
     - ⚡️ I'm a huge Brooklyn noine-noine fan
 
 
