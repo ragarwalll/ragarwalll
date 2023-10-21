@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/ragarwal06/ragarwal06/main/assets/cat.gif" width="40" />
+### Hi there <img src="https://raw.githubusercontent.com/ragarwalll/ragarwalll/main/assets/cat.gif" width="40" />
 
-![alt text](https://raw.githubusercontent.com/ragarwal06/ragarwal06/main/assets/profile.png)
+![alt text](https://raw.githubusercontent.com/ragarwalll/ragarwalll/main/assets/profile.png)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ragarwal06/ragarwal06/main/assets/avatar.gif" width="300" align="left" />
+<img src="https://raw.githubusercontent.com/ragarwalll/ragarwalll/main/assets/avatar.gif" width="300" align="left" />
 
 ### Things I like to code with and work on <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="30" />
 
