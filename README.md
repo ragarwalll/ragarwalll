@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/ragarwalll/ragarwalll/main/assets/cat.gif" width="40" />
+### Hi there <img src="/assets/cat.gif" width="40" />
 
-![alt text](https://raw.githubusercontent.com/ragarwalll/ragarwalll/main/assets/profile.png)
+![alt text](/assets/profile.png)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ragarwalll/ragarwalll/main/assets/avatar.gif" width="300" align="left" />
+<img src="/assets/avatar.gif" width="300" align="left" />
 
 ### Things I like to code with and work on <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="30" />
 
@@ -39,10 +39,10 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/-vscode-444444?style=flat-square&logo=data:image/png;base64,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" />
 </p>
 
-#### I'm a Associate Developer working in Bangalore, India
+#### I'm a Computer Scientist working in Bangalore, India
 
-    - 👨🏻‍🎓 Associate Developer @SAP
-    - 🏢 I'm working with SAP teams to simplify and automate everyday tasks, making life easier for everyone.
+    - 👨🏻‍🎓 Computer Scientist @Adobe
+    - 💁🏻 Read more about me here -> https://therahulagarwal.com/
     - ⚡️ I'm a huge Brooklyn noine-noine fan
 
 
