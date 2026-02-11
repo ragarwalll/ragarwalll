@@ -1,4 +1,4 @@
-![Hi There](./assets/github-banner.png)
+![Hi There](./assets/github-banner.jpg)
 
 <div align="center">
   <h3 style="margin-top: 0">Hi there <img src="./assets/cat.gif" width="40"></h3>
